@@ -1,3 +1,3 @@
-# Everywhere Computer Getting Started
+# Welcome to the default workspace for the Everywhere Computer
 
-Getting started workspace settings for Everywhere Computer and local Homestar node. The [docs have a step-by-step process for you](https://docs.everywhere.computer), or drop by the [Fission Discord chat](https://fission.codes/discord) if you run into issues.
+Please see our docs for help [Getting Started](https://docs.everywhere.computer/)
